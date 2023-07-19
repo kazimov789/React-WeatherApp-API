@@ -1,0 +1,29 @@
+.searchInput{
+    margin: 30px auto !important;
+    display: flex;
+    width: 30%;
+    height: 25px;
+    border-radius: 10px;
+}
+
+.bg-img{
+    background-color: aqua;
+    height: 650px;
+}
+
+.location{
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.content span{
+    font-size: 18px;
+}
+
+.loading{
+    font-size: 50px;
+    margin-left: 300px;
+    color: brown;
+    background-color: darkgray;
+}
